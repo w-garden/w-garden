@@ -17,7 +17,7 @@
 
 </div>
 
-   ### Front-End
+ ### Front-End
 
 <div>  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>  
   
-## DataBase
+### DataBase
 
   <div>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
@@ -34,10 +34,9 @@
   
 </div>
 
-## Server
+### Server
 <div>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
 
 <br>
