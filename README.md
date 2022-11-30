@@ -1,6 +1,5 @@
 <div align=right>
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw-garden%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <h1>📚 STACKS</h1>
@@ -40,8 +39,12 @@
 </div>
 
 <br>
-
+<div width=100>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shc729)](https://solved.ac/shc729)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-garden)](https://github.com/w-garden/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-garden&layout=compact)](https://github.com/w-garden/github-readme-stats)
+
+  </div>
 
