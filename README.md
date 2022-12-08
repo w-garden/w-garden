@@ -43,8 +43,6 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shc729)](https://solved.ac/shc729)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-garden)](https://github.com/w-garden/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-garden&layout=compact)](https://github.com/w-garden/github-readme-stats)
 
   </div>
 
