@@ -1,12 +1,16 @@
-<div align=right>
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=Waving&color=55A75D&height=130&section=header&text=Hi%20There~!&fontSize=30&fontAlignY=30" />	
+</div>  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw-garden%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align=center>
+
+### 📚 Techs 
 </div>
-<h1>📚 STACKS</h1>
 
-  ### Back-End
-
-<div> 
+<div align=center>
+  
+  #### Back-End    
+  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
@@ -16,33 +20,36 @@
 
 </div>
 
- ### Front-End
+<div align=center>
+  
+   #### Front-End
 
-<div>  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  </div>  
+</div>  
+ 
+<div align=center>
   
-### DataBase
+  #### DataBase
 
-  <div>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   
 </div>
 
-### Server
-<div>
+<div align=center>
+  
+  #### Server
+
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
 
 <br>
-<div width=100>
+
+<div align=center width=100>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shc729)](https://solved.ac/shc729)
-
-
-  </div>
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shc729)](https://solved.ac/shc729)
+ 
+</div>
