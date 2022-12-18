@@ -6,6 +6,8 @@
 	
 ### 📚 Technology [(notion link)](https://www.notion.so/e56294f9134140d686f7df29c80af7f9) 📚
 </div>
+
+<br>
 <div align=center>
   
   #### ⚡ Back-End  ⚡
