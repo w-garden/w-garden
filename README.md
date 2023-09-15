@@ -3,7 +3,7 @@
  <img src="https://capsule-render.vercel.app/api?type=egg&color=55A75D&height=130&section=header" />	
 </div> 
 <div align=center>
-	
+
 ### 📚 Technology [(notion link)](https://www.notion.so/e56294f9134140d686f7df29c80af7f9) 📚
 </div>
 
