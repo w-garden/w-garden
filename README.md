@@ -4,7 +4,7 @@
 </div> 
 <div align=center>
 
-### 📚 Technology [(notion link)](https://www.notion.so/e56294f9134140d686f7df29c80af7f9) 📚
+### 📚 Technology [(devlog)]([https://www.notion.so/e56294f9134140d686f7df29c80af7f9](https://devlog12.notion.site/wgarden-s-Devlog-7864e5a4c87642dca6926b12a5f99e8f?pvs=4)) 📚
 </div>
 
 <br>
